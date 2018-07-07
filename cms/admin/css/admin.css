@@ -1,0 +1,12 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+}
+
+.navbar-inverse {
+	padding: 2px;
+}
+
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand, .top-nav>li>a {
+	color: #bbbbbb;
+}
